@@ -1,9 +1,9 @@
 describe('User Login', () => {
  
   const userInfo = {
-    username: "John Doe",
-    email: "jn.benes92@gmail.com",
-    password: "Password1*"
+    username: "",
+    email: "",
+    password: ""
   }
 
   it('should allow a visitor to login and logout', () => {
